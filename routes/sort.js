@@ -15,7 +15,7 @@ const router = express.Router();
  *             properties:
  *               data:
  *                 type: string
- *                 example: example
+ *                 example: boitumelo
  *     responses:
  *       200:
  *         description: Sorted characters as array
